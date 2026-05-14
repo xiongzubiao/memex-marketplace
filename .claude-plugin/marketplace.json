@@ -1,0 +1,9 @@
+{
+  "name": "xiongzubiao",
+  "owner": { "name": "Zubiao Xiong" },
+  "plugins": [{
+    "name": "memex",
+    "source": { "source": "npm", "package": "@xiongzubiao/memex" },
+    "description": "Personal wiki storage and search engine for AI agents"
+  }]
+}
